@@ -7,7 +7,7 @@
 
 - 📫 Contato: **gabrielsclima.2004@gmail.com**
 
-- ⚡ Fato curioso **Sou bom no xadrez, mas não consigo jogar damas**
+- ⚡ Fato curioso: **Sou bom no xadrez, mas não consigo jogar damas**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
