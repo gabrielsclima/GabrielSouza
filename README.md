@@ -5,7 +5,7 @@
 
 - 💬 Pode me perguntar sobre **Python, Arduino, Lógica de Programação e Frontend em geral**
 
-- 📫 How to reach me **gabrielsclima.2004@gmail.com**
+- 📫 Contato: **gabrielsclima.2004@gmail.com**
 
 - ⚡ Fato curioso **Sou bom no xadrez, mas não consigo jogar damas**
 
