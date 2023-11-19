@@ -1,13 +1,12 @@
-<h1 align="center">Olá 👋, eu sou Gabriel Souza de Carvalho Lima</h1>
-<h3 align="center">Desenvolvedor</h3>
+<h1 align="center">Olá 👋, sou o Gabriel Souza</h1>
 
-<h3 align="left">Se conecte comigo:</h3>
+<h3 align="left">Caso queira conversar:</h3>
 <p align="left">
   <a href="https://discord.gg/Gabriel Lima#6232" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Lima#6232" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Linguagens e Ferramentas que utilizo:</h3>
+<h3 align="left">Linguagens e Ferramentas que uso:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -20,9 +19,6 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
