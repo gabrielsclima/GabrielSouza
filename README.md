@@ -1,11 +1,5 @@
-<h1 align="center">Olá 👋, sou o Gabriel Souza</h1>
+<h1 align="center">Prazer, seja bem-vindo</h1>
 
-<h3 align="left">Caso queira conversar:</h3>
-<p align="left">
-  <a href="https://discord.gg/Gabriel Lima#6232" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Lima#6232" height="30" width="40" />
-  </a>
-</p>
 <h3 align="left">Linguagens e Ferramentas que uso:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -34,9 +28,9 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsclima&show_icons=true&locale=en&layout=compact" alt="gabrielsclima" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsclima&show_icons=true&locale=en" alt="gabrielsclima" />
+<h3 align="left">Caso queira conversar:</h3>
+<p align="left">
+  <a href="https://discord.gg/Gabriel Lima#6232" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Lima#6232" height="30" width="40" />
+  </a>
 </p>
