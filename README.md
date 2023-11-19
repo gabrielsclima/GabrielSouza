@@ -37,10 +37,4 @@
 
 <h2>Um pouco sobre mim<h2>
 <p>
-  Aos 14 anos, me interessei em saber mais sobre como os computadores funcionam. "Se eles usam binários, como eles entendem um texto?", "Como é possível manipular a eletricidade e entregar o que os computadores entregam?", entre outras perguntas que rodeavam a minha mente. Foi então, que tive a chance de iniciar meu curso de Hardware e Robótica na Microcamp de Atibaia.
-  Durante o curso, pude retirar muitas dúvidas que tinha. Aprendi a concertar um computador (o que ajudava financeiramente a não precisar de um técnico), aprendi Eletrônica, Redes, Robótica, além de vivenciar momentos que vão permanecer em minha memória. Contudo, ainda sentia que faltava alguma coisa... eu sabia reparar um computador, mas ainda não sabia falar com ele.
-  Um ano depois, onde ainda estava com o curso em andamento, decidi voltar a usar o Linux Ubuntu, que eu já utilizava antes mesmo do curso. Mas nesse dia... decidi mexer onde não devia. Me deparei com um processo do Python que estava sendo executado, e minha lógica foi: "Bom, o Windows não precisa do Java pra funcionar, então o Linux não precisa do Python". Desinstalei o Python, e apenas pude me deparar com toda a interface desaparecendo do computador, sobrando apenas um terminal na minha tela. Não fiquei desesperado, triste, ou outra coisa do tipo. Apenas apreciei o quão importante ele é para o Ubuntu. Tudo que fiz foi pesquisar como reinstalá-lo pelo terminal e tudo ficou bem, mas tudo mudou a partir desse momento.
-  Iniciei minha pesquisa sobre o Python em geral, e não demorou tanto até encontrar um nome bem popular entre os programadores. Ele mesmo, Gustavo Guanabara, mais conhecido pelo seu canal Curso em Vídeo no Youtube.
-
-(A continuar...)
 </p>
