@@ -1,19 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Souza de Carvalho Lima</h1>
 <h3 align="center">Desenvolvedor</h3>
 
-- 🌱 Estou atualmente aprendendo **Tecnologias de Frontend e Backend**
-
-- 💬 Pode me perguntar sobre **Python, Arduino, Lógica de Programação e Frontend em geral**
-
-- 📫 Contato: **gabrielsclima.2004@gmail.com**
-
-- ⚡ Fato curioso: **Sou bom no xadrez, mas não consigo jogar damas**
-
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gabrielsclima" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel souza de carvalho lima" height="30" width="40" />
-  </a>
   <a href="https://discord.gg/Gabriel Lima#6232" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel Lima#6232" height="30" width="40" />
   </a>
@@ -49,34 +38,9 @@
   </a> 
 </p>
 
-<h3 align="left">Linguagens e Ferramentas que pretendo aperfeiçoar:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsclima&show_icons=true&locale=en&layout=compact" alt="gabrielsclima" /></p>
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsclima&show_icons=true&locale=en&layout=compact" alt="gabrielsclima" />
+</p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsclima&show_icons=true&locale=en" alt="gabrielsclima" />
 </p>
