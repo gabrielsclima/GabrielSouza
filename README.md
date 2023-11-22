@@ -35,6 +35,7 @@
   </a>
 </p>
 
-<h2>Um pouco sobre mim<h2>
+<h2>Projetos que estou me dedicando no momento<h2>
 <p>
+  - [Rainbow Snake](https://github.com/gabrielsclima/rainbow-snake-v2);
 </p>
