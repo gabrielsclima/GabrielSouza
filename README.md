@@ -23,7 +23,7 @@
 </p>
 
 ### Quer entrar em contato?
-Por enquanto, você pode entrar em contato comigo pelo <a href="discordapp.com/users/1072278872676122654">Discord</a> ou por [Email](mailto:gabrielsclima.2004@gmail.com)
+Por enquanto, você pode entrar em contato comigo pelo <a href="discordapp.com/users/1072278872676122654" target="_blank">Discord</a> ou por [Email](mailto:gabrielsclima.2004@gmail.com)
 
 ### Projetos que estou me dedicando no momento: 
   - [Rainbow Snake](https://github.com/gabrielsclima/rainbow-snake-v2);
