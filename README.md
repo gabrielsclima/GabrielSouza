@@ -25,5 +25,8 @@
 ### Quer entrar em contato?
 Por enquanto, você pode entrar em contato comigo pelo [Discord](https://discordapp.com/users/1072278872676122654) ou por [Email](mailto:gabrielsclima.2004@gmail.com)
 
-### Projetos que estou me dedicando no momento: 
-  - [Rainbow Snake](https://github.com/gabrielsclima/rainbow-snake-v2);
+### Atualização (2025)
+
+Depois de um bom tempo parado sem programar, decidi voltar de uma forma incrível.
+Estou matriculado no curso.dev do Filipe Deschamps, que é uma das maiores conquistas que obtive nesse ano (e olha que o ano acabou de começar), mas que foi através do esforço que tive desde o ano passado.
+Meu foco é retornar e abrir o meu campo de "Dev", assim como após meu primeiro emprego em 2024, abri o meu olhar para como é trabalhar em um ambiente profissional e melhorei minhas habilidades de comunicação e tomada de decisões.
